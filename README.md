@@ -23,7 +23,7 @@ Learning Machine Learning from basic to advance and develop Machine Learning Mod
 # Installation
 | Title | Repository |
 |------ | :----------: |
-|INSTALL THE ANACONDA PYTHON ON WINDOWS AND LINUX | [🔗](https://github.com/ghimiresunil/Implementation-of-Machine-Learning-Algorithm-from-Scratch/blob/main/Installation/install_anaconda_python.md)|
+|INSTALL THE ANACONDA PYTHON ON WINDOWS AND LINUX | [🔗](https://github.com/SahashRaee/Machine_Learning_Concepts_and_Implementation/blob/main/Installation/install_anaconda_python.md)|
 
 # Reality vs Expectation
 | Title | Repository |
