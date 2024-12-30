@@ -28,7 +28,7 @@ Learning Machine Learning from basic to advance and develop Machine Learning Mod
 # Reality vs Expectation
 | Title | Repository |
 |------ | :----------: |
-| IS AI OVERHYPED? REALITY VS EXPECTATION |[🔗](https://github.com/ghimiresunil/Implementation-of-Machine-Learning-Algorithm-from-Scratch/blob/main/Reality%20vs%20Expectation/Is%20AI%20Overhyped%3F%20Reality%20vs%20Expectation.md)|
+| IS AI OVERHYPED? REALITY VS EXPECTATION |[🔗](https://github.com/SahashRaee/Machine_Learning_Concepts_and_Implementation/blob/main/Reality%20vs%20Expectation/Is%20AI%20Overhyped%3F%20Reality%20vs%20Expectation.md)|
 
 # Machine Learning from Beginner to Advanced
 | Title | Repository |
