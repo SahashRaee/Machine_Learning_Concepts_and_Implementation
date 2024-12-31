@@ -2,7 +2,7 @@
 Learning Machine Learning from basic to advance and develop Machine Learning Models from Scratch in Python
 
 
-## Navigation
+## Navigations
 * [Useful Commands](#useful-commands) 
 * [Installation](#installation)
 * [Reality vs Expectation](#reality-vs-expectation)
