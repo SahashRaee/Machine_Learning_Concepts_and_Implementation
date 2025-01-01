@@ -55,10 +55,6 @@ Learning Machine Learning from basic to advance and develop Machine Learning Mod
 |------ | :----------: |
 |CONFUSION MATRIX FOR YOUR MULTI-CLASS ML MODEL| [🔗](https://github.com/SahashRaee/Machine_Learning_Concepts_and_Implementation/blob/main/Mathematical%20Implementation/confusion_matrix.md)|
 
-# Machine Learning Interview Questions with Answers
-| Title | Repository |
-|------ | :----------: |
-|50 QUESTIONS ON STATISTICS & MACHINE LEARNING – CAN YOU ANSWER? | [🔗](https://graspcoding.com/50-questions-on-statistics-machine-learning-can-you-answer/)|
 
 # Essential Machine Learning Formulas
 | Title | Repository |
