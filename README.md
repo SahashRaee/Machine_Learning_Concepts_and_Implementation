@@ -42,7 +42,7 @@ Learning Machine Learning from basic to advance and develop Machine Learning Mod
 # Scratch Implementation
 | Title | Repository |
 |------ | :----------: |
-|LINEAR REGRESSION FROM SCRATCH| [🔗](https://github.com/ghimiresunil/Implementation-of-Machine-Learning-Algorithm-from-Scratch/tree/main/ML%20from%20Scratch/Linear%20Regression)|
+|LINEAR REGRESSION FROM SCRATCH| [🔗](https://github.com/SahashRaee/Machine_Learning_Concepts_and_Implementation/tree/main/ML%20from%20Scratch/Linear%20Regression)|
 |LOGISTIC REGRESSION FROM SCRATCH| [🔗](https://github.com/ghimiresunil/Implementation-of-Machine-Learning-Algorithm-from-Scratch/tree/main/ML%20from%20Scratch/Logistic%20Regression)|
 |NAIVE BAYES FROM SCRATCH| [🔗](https://github.com/ghimiresunil/Implementation-of-Machine-Learning-Algorithm-from-Scratch/tree/main/ML%20from%20Scratch/Naive%20Bayes)|
 |DECISION TREE FROM SCRATCH|[🔗](https://github.com/ghimiresunil/Implementation-of-Machine-Learning-Algorithm-from-Scratch/blob/main/ML%20from%20Scratch/Decision%20Tree/README.md)|
