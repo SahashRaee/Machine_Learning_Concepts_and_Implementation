@@ -1,8 +1,8 @@
-# Git Cheatsheet By Sunil Ghimire
+# Git Cheatsheet 
 
 ##### 1. For Config:
-=> git config --global user.name "Sunil Ghimire" <br>
-=> git config --global user.email "info@sunilghimire.com.np" <br>
+=> git config --global user.name " " <br>
+=> git config --global user.email " " <br>
 
 ##### 2. To View  user.name and email
 => git config --list 
