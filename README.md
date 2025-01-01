@@ -64,7 +64,7 @@ Learning Machine Learning from basic to advance and develop Machine Learning Mod
 # Pratice Guide for Data Science Learning
 | Title | Repository |
 |------ | :----------: |
-| Research Guide for FYP | [🔗](https://github.com/ghimiresunil/Implementation-of-Machine-Learning-Algorithm-from-Scratch/blob/main/Pratice%20Guide/research_guide_for_fyp.md)|
+| Research Guide for FYP | [🔗](https://github.com/SahashRaee/Machine_Learning_Concepts_and_Implementation/blob/main/Pratice%20Guide/research_guide_for_fyp.md)|
 |The Intermediate Guide to 180 Days Data Science Learning Plan|[🔗](https://graspcoding.com/the-intermediate-guide-to-180-days-data-science-learning-plan/)|
 
 *** 
