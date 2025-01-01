@@ -59,7 +59,7 @@ Learning Machine Learning from basic to advance and develop Machine Learning Mod
 # Essential Machine Learning Formulas
 | Title | Repository |
 |------ | :----------: |
-|MOSTLY USED MACHINE LEARNING FORMULAS |[🔗](https://github.com/ghimiresunil/Machine-Learning-Formulas)|
+|MOSTLY USED MACHINE LEARNING FORMULAS |[🔗](https://github.com/SahashRaee/Machine_Learning_Concepts_and_Implementation/tree/main/Machine_Learning_Formulae)|
 
 # Pratice Guide for Data Science Learning
 | Title | Repository |
