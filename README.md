@@ -48,8 +48,7 @@ Learning Machine Learning from basic to advance and develop Machine Learning Mod
 |DECISION TREE FROM SCRATCH|[🔗](https://github.com/SahashRaee/Machine_Learning_Concepts_and_Implementation/tree/main/ML%20from%20Scratch/Decision%20Tree)|
 |RANDOM FOREST FROM SCRATCH|[🔗](https://github.com/SahashRaee/Machine_Learning_Concepts_and_Implementation/tree/main/ML%20from%20Scratch/Random%20Forest)|
 | K NEAREST NEIGHBOUR | [🔗](https://github.com/SahashRaee/Machine_Learning_Concepts_and_Implementation/tree/main/ML%20from%20Scratch/KNN)|
-| NAIVE BAYES | [🔗](https://github.com/ghimiresunil/Implementation-of-Machine-Learning-Algorithm-from-Scratch/tree/main/ML%20from%20Scratch/Naive%20Bayes)|
-| K MEANS CLUSTERING | [🔗](https://github.com/ghimiresunil/Implementation-of-Machine-Learning-Algorithm-from-Scratch/tree/main/ML%20from%20Scratch/K%20Means%20Clustering)|
+| K MEANS CLUSTERING | [🔗](https://github.com/SahashRaee/Machine_Learning_Concepts_and_Implementation/tree/main/ML%20from%20Scratch/K%20Means%20Clustering)|
 
 # Mathematical Implementation
 | Title | Repository |
