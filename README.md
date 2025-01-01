@@ -17,7 +17,6 @@ Learning Machine Learning from basic to advance and develop Machine Learning Mod
 | Title | Repository |
 |------ | :----------: |
 | USEFUL GIT COMMANDS  | [🔗](https://github.com/SahashRaee/Machine_Learning_Concepts_and_Implementation/tree/main/Git_Commands_CheatSheet)|
-| MOST USEFUL LINUX COMMANDS EVERYONE SHOULD KNOW | [🔗](https://github.com/ghimiresunil/Linux-Guide-For-All)|
 |  ML TOOL| [🔗](https://github.com/SahashRaee/Machine_Learning_Concepts_and_Implementation/tree/main/Machine_Learning_Tools)|
 
 # Installation
