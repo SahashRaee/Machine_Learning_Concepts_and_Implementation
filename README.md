@@ -53,7 +53,7 @@ Learning Machine Learning from basic to advance and develop Machine Learning Mod
 # Mathematical Implementation
 | Title | Repository |
 |------ | :----------: |
-|CONFUSION MATRIX FOR YOUR MULTI-CLASS ML MODEL| [🔗](https://github.com/ghimiresunil/Implementation-of-Machine-Learning-Algorithm-from-Scratch/blob/main/Mathematical%20Implementation/confusion_matrix.md)|
+|CONFUSION MATRIX FOR YOUR MULTI-CLASS ML MODEL| [🔗](https://github.com/SahashRaee/Machine_Learning_Concepts_and_Implementation/blob/main/Mathematical%20Implementation/confusion_matrix.md)|
 
 # Machine Learning Interview Questions with Answers
 | Title | Repository |
