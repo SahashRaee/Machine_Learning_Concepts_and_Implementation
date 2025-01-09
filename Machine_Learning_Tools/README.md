@@ -1,6 +1,6 @@
-# My Ultimate Tech Toolbox 
+#  Tech Toolbox 
 
-Here’s a curated list of the tools and resources that support my tech journey. From development to testing and database management, these are the essentials I rely on to get the job done efficiently.  🙌 Dive in and explore the tools that enhance my workflow.
+Here’s a list of the tools and resources to support you during your journey of machine learning. From development to testing and database management, these are the essentials that are required.  🙌 Dive in and explore the tools that enhance workflow.
 
 
 ## 01. Visual Studio Code
