@@ -1,4 +1,4 @@
-# Performance Metrics in Machine Learning Classification Models
+# Performance Metrics in Machine Learning Classification Model
 
 ![performance-metrics-in-AI](https://user-images.githubusercontent.com/40186859/177039791-23fcf82b-b9fc-4b60-94b9-c91c738205f7.png)
 
