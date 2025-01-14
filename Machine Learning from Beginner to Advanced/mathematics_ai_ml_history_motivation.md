@@ -1,4 +1,4 @@
-## HISTORY OF MATHEMATICS
+s## HISTORY OF MATHEMATICS
 
 * ...........?
 * Number system: **2500 Years ago**
