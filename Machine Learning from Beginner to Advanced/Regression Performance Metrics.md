@@ -43,7 +43,7 @@ RMSE = $\sqrt{\Sigma_{i=1}^n \frac{(\hat{y_i} - y_i)^2}{n}}$
 
 Where,
 
-n = total otal number of data points <br>
+n = total  number of data points <br>
 $y_i$ = actual value <br>
 $\hat{y_i}$ = predicted value
 
