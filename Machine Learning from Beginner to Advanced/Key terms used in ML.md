@@ -1,4 +1,4 @@
-s# KEY TERMS USED IN MACHINE LEARNING
+sss# KEY TERMS USED IN MACHINE LEARNING
 
 Before starting tutorials on machine learning, we came with an idea of providing a brief definition of key terms used in Machine Learning. These key terms will be regularly used in our coming tutorials on machine learning from scratch and will also be used in further higher courses. So let’s start with the term Machine Learning:
 
