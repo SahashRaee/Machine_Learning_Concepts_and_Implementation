@@ -379,7 +379,7 @@ Here’s a list of the tools and resources to support you during your journey of
 - [tracemalloc](https://docs.python.org/3/library/tracemalloc.html) : Trace memory allocations
 - [trafilatura](https://trafilatura.readthedocs.io/en/latest/): A Python package & command-line tool to gather text on the Web
 - [Trainer](https://huggingface.co/docs/transformers/main_classes/trainer): Provides an API for feature-complete training in PyTorch for most standard use cases
-- [Trio](https://trio.readthedocs.io/en/stable/): a friendly Python library for async concurrency and I/O
+- [Trio](https://trio.readthedocs.io/en/stable/): a friendly Python library for async concurrency and Input/Output
 - [urllib](https://docs.python.org/3/library/urllib.html): Collects several modules for working with URLs  
 - [uv](https://github.com/astral-sh/uv): An extremely fast Python package and project manager, written in Rust.
 - [vmap](https://jax.readthedocs.io/en/latest/_autosummary/jax.vmap.html): vmap is the vectorizing map; vmap(func) returns a new function that maps func over some dimension of the inputs.
