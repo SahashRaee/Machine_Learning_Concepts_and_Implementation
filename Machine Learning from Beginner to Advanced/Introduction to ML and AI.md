@@ -1,4 +1,4 @@
-s# INTRODUCTION TO ARTIFICIAL INTELLIGENCE & MACHINE LEARNING
+# INTRODUCTION TO ARTIFICIAL INTELLIGENCE & MACHINE LEARNING
 <img src="https://user-images.githubusercontent.com/40186859/177009258-135942dd-fc76-47f1-a56d-2c70b78f91a5.png" alt="Machine Learning Introduction?" width="800" height = "400">
 
 Artificial intelligence can be interpreted as adding human intelligence in a machine. Artificial intelligence is not a system but a discipline that focuses on making machine smart enough to tackle the problem like the human brain does. The ability to learn, understand, imagine are the qualities that are naturally found in Humans. Developing a system that has the same or better level of these qualities artificially is termed as Artificial Intelligence.
